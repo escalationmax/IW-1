@@ -339,7 +339,59 @@ title 50 
 
 
 ------------------------------------------------------------------Day 4------------------------------------------------------------------
+# Defensive Cyberspace Methodologies 
+* DCO: halt adversary ofensive initiative, sustain or regain friendly initiative and if required create conditions counter offensive
+* Reactive: respone to a spefic threat
+    ** Deter, Deny, Defeat adversary OCO
+* DCO-IDM: Internal Defensive Measures: Authorized defense actions occur within the defended network or portion of cyberspace
+* DCO-RA: Response actions: The form o DCO actions taken external to the defended network or portion of cyberspace without the permission of the owner of the afectd system
+  ** On non DOD Cyberspace: CPTS deploy
 
+* Cyberspace security: network focused and threat- agnostic
+* Cyberspace Defense: Threat Specific and network - agnostic (DCO-IDM)
+  ** N-CPT CNMF-HQ: Defende the nation
+  ** DODIN-CPT JFHQ-DODIN: 
+  ** CCMD-CPT CCMD
+  ** Service-CPT Services
+
+* Core functions: Hunt, CLear, Enable Hardening, Asses
+
+* Postions:
+  ** Host analysts: An IT, basic windows/linux expertise, foundational knowledge of the host network you operate on
+  ** Data engineer: get data in the right formatting, help build or maintain systems and infrastructure
+  ** Analytic Support Officer: collectiong and analyzing and responding gata
+  ** Network Technician: Enterprise and tactical infrastructure knowledge
+  
+* CPT Capabilitites
+    ** Discovery and counter infiltration
+      - PIR, EEI
+    ** Cyber THreat Emulation
+    ** Threat Mitigation
+     - TTPs
+  
+* Deployable Mission Support Systems
+    ** DCO Tool Suite
+      - Redhat virtualization
+      - Ansible
+      - BLue Scope / VTS
+      - Docker
+      - Encase
+      - Carbon Black
+      - GIT
+      - Nipper Studio
+      - Powershell
+      - Red Seal
+      - Security Onion
+      - Wireshark
+
+*CPTS conduct Defensive Cyberpace actions local to sustain an advanced cyberpace defense posture that protects commanders critical assets and protected blue space Key terrain.
+* Key Terrain: Cyber (KT-C)
+    ** Cyber is analogous to key terrain in the physical domain in that access to or control of it affords any combatant a position of makrked advantage. Field of fire 
+*Mission-Relevant terrain -Cyber (MRT-C)
+   ** mission assurance process and it comprises the resource in cyberspace required to ensure the joint force can complete an assigned mission
+* Cpts can guide terrain owners in develpment od improved defensive positions to be manned by organic security forces, or to be temporarily manned as required by CPT personnel until battle handover to other entities.
+    ** Network Maps- utilize netowk mapping tools and packet capture data to verify all devices communications onn the network
+   ** Risk Mitigation map
 
 
 
